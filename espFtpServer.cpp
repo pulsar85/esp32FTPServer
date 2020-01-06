@@ -1,5 +1,5 @@
 /*
- * FTP Serveur for ESP8266
+ * FTP Serveur for ESP8266 and ESP32
  * based on FTP Serveur for Arduino Due and Ethernet shield (W5100) or WIZ820io (W5200)
  * based on Jean-Michel Gallego's work
  * modified to work with esp8266 SPIFFS by David Paiva david@nailbuster.com
@@ -18,7 +18,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-#include "ESP8266FtpServer.h"
+#include "espFtpServer.h"
 #ifdef ESP8266
 #include <ESP8266WiFi.h>
 #elif defined ESP32
