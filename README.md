@@ -1,4 +1,4 @@
-# esp8266FTPServer
+# esp32FTPServer
 Simple FTP Server for using esp8266/esp32 SPIFFs
 
 Now should support esp32!!!  
