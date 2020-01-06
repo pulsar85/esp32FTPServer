@@ -5,7 +5,7 @@
 #include "SPIFFS.h"
 #endif
 
-#include <ESP8266FtpServer.h>
+#include <espFtpServer.h>
 
 const char* ssid = "YOUR_SSID";
 const char* password = "YOUR_PASS";

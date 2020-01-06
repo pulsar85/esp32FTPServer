@@ -1,7 +1,7 @@
 {
-	"name": "esp8266FTPServer",
+	"name": "espFTPServer",
 	"description": "Simple FTP Server for using esp8266 SPIFFs",
-	"keywords": "esp8266, ftp, spiffs",
+	"keywords": "esp8266, ftp, spiffs, esp32",
 	"authors":
 		{
 			"name": "David Paiva",
